@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Розваги", "timeframes": { "щоденно": { "current": 0.5, "previous": 4 },
+      "щотижня": { "current": 13, "previous": 16.4 },
+      "щомісячно": { "current": 33.7, "previous": 21.3 }
+    }
+  },
+
+  {
+    "title": "Робота", "timeframes": { "щоденно": { "current": 12, "previous": 4 },
+      "щотижня": { "current": 42, "previous": 32 },
+      "щомісячно": { "current": 122.1, "previous": 136 }
+    }
+  },
+
+  {
+    "title": "Навчання", "timeframes": { "щоденно": { "current": 7, "previous": 4 },
+      "щотижня": { "current": 15, "previous": 5 },
+      "щомісячно": { "current": 67, "previous": 93 }
+    }
+  },
+
+  {
+    "title": "Соц. мережі", "timeframes": { "щоденно": { "current": 7, "previous": 5 },
+      "щотижня": { "current": 11, "previous": 9 },
+      "щомісячно": { "current": 34, "previous": 30 }
+    }
+  },
+
+  {
+    "title": "Дбання про здоров'я", "timeframes": { "щоденно": { "current": 2.5, "previous": 5 },
+      "щотижня": { "current": 4, "previous": 3 },
+      "щомісячно": { "current": 14, "previous": 10 }
+    }
+  },
+
+  {
+    "title": "Вправи", "timeframes": { "щоденно": { "current": 3, "previous": 2 },
+      "щотижня": { "current": 12, "previous": 11 },
+      "щомісячно": { "current": 22, "previous": 25 }
+    }
+  }
+
+]
